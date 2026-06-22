@@ -12,6 +12,7 @@ env/
 ENV/
 .env
 *.env
+backend/.env
 backend/.agents/.env
 
 # Pip
