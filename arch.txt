@@ -1,0 +1,19 @@
+AI Job Tracker
+
+Frontend (React + TypeScript)
+        ↓ REST API
+Backend (FastAPI)
+        ↓
+PostgreSQL
+        ↓
+Redis (Cache + Background Jobs)
+
+Extra Services
+
+• JWT Authentication
+• Google OAuth
+• Resume Parser
+• AI Resume Analyzer
+• AI Interview Generator
+• WebSocket Notifications
+• Docker Deployment
